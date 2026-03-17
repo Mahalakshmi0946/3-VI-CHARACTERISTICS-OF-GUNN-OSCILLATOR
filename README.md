@@ -1,4 +1,4 @@
-# 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
+[# 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
 
 **Aim:**
 
@@ -69,3 +69,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **Result:**
 
+](https://github.com/Sharmikavya99/3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR)
